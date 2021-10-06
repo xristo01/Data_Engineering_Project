@@ -5,7 +5,6 @@ import time
 import pandas as pd
 import numpy as np
 
-
 class CarScraping:
     def __init__(self):
         self.make = []
