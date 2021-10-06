@@ -9,4 +9,4 @@ setup(
     author = 'Hristo Petkov',
     license = 'MIT',
     packages = find_packages(),
-    install_requires = ['pandas', 'selenium', 'numpy'])
+    install_requires = ['pandas', 'selenium', 'numpy', 'sqlalchemy'])
