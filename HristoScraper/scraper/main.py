@@ -1,5 +1,6 @@
-from .scraping import CarScraping
+import scraping
 import pandas as pd
+from .scraping import CarScraping
 
 if __name__ == "__main__":
 
