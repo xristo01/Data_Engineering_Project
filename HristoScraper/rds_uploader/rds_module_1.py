@@ -2,7 +2,6 @@ import csv
 from sqlalchemy import create_engine
 import pandas as pd
 
-
 class rds_upload:
     def __init__(self):
         self.DATABASE_TYPE = 'postgresql'
